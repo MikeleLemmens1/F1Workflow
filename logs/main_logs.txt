@@ -1,0 +1,20 @@
+Archive:  ./csv_data.zip
+  inflating: ./csv_files/raw/circuits.csv  
+  inflating: ./csv_files/raw/constructor_results.csv  
+  inflating: ./csv_files/raw/constructor_standings.csv  
+  inflating: ./csv_files/raw/constructors.csv  
+  inflating: ./csv_files/raw/driver_standings.csv  
+  inflating: ./csv_files/raw/drivers.csv  
+  inflating: ./csv_files/raw/lap_times.csv  
+  inflating: ./csv_files/raw/pit_stops.csv  
+  inflating: ./csv_files/raw/qualifying.csv  
+  inflating: ./csv_files/raw/races.csv  
+  inflating: ./csv_files/raw/results.csv  
+  inflating: ./csv_files/raw/seasons.csv  
+  inflating: ./csv_files/raw/sprint_results.csv  
+  inflating: ./csv_files/raw/status.csv  
+driver = Alonso
+driverId = 4
+season = 2011
+round = 5
+raceId = 845
