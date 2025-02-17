@@ -2,6 +2,7 @@
 
 Deze workflow maakt deel uit van het vak Linux For Data Scientists - MT2SEM2 van Toegepaste Informatica aan HOGENT.
 Het stelt een pipeline voor die F1-data downloadt en verwerkt om tot slot een webpagina te genereren die "live" rondetijden toont.
+Eigen aan deze workflow is dat de volledige codebase gebruik maakt van shell scripts, geen python of andere programmeertaal.
 
 ## Keuze dataset en persoonlijke doelstelling
 
