@@ -48,7 +48,7 @@ Het `main`-script voert alle scripts uit en voorziet korte pauzes zodat de taken
 2) Begin met `./scripts/refresh_data.sh` Deze maakt je directory verder klaar. Wanneer je alle scripts na elkaar uitvoert, zorg dan dat dit script eerst klaar is voordat je aan andere scripts begint. Oude files worden opgeruimd zodat je altijd met de meest recente data werkt.<br>
 
 3) Als de data klaar staat kan je de rondetijd voor een gekozen race en piloot kiezen (`./scripts/toon_rondetijden.sh Alonso 2011 5`). Deze data geef je in zoals een gebruiker het kan begrijpen, een piloot definieer je adhv zijn achternaam (bv. "Alonso"), het seizoen is het jaartal, en de ronde is de nummer van de race van dat seizoen. De naam van een race is dubbelzinnig, een rondenummer niet (en wordt steeds meegegeven zoals in de afbeelding hieronder), vandaar dat ik een race op die manier identificeer.<br>
-![Racenaam en rondenummer](image.png)
+![Racenaam en rondenummer](image.png)\
 Wanneer ongeldige argumenten worden meegegeven wordt er een foutmelding gelogd en breekt het script af, het is nl. niet mogelijk om een analyse te maken van een ongeldig verzoek.
 Na het maken van de nodige CSV-files wordt een grafiek gemaakt en ingevoegd in de map `./plots/`.
 
